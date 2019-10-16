@@ -1,0 +1,24 @@
+{
+  "name": "yxt-cli",
+  "version": "1.3.0",
+  "description": "my cli",
+  "main": "index.js",
+  "bin": {
+    "yxt-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yxt-cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuxt2017/yxt-cli.git"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "author": "yxt",
+  "license": "ISC"
+}
